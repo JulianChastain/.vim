@@ -59,6 +59,7 @@ set termguicolors
 "Colorschemes
 colors deus "deus for everything not specified below
 autocmd Filetype c colors gruvbox "gruvbox theme for c programs
+autocmd Filetype c set background=dark
 
 ""autocmd Filetype cpp colors gruvbox "gruvbox light for c++
 autocmd Filetype py colors alduin "alduin for python

@@ -11,40 +11,76 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/temp
+~MSle0~/inPl
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
+:term
+|2,0,1581690180,,"term"
+:q
+|2,0,1581690119,,"q"
+:q!
+|2,0,1581642164,,"q!"
 :x
-|2,0,1579889566,,"x"
+|2,0,1581543471,,"x"
+:w!
+|2,0,1581543469,,"w!"
+:w
+|2,0,1581543466,,"w"
+:X
+|2,0,1581465894,,"X"
+:Q
+|2,0,1581462609,,"Q"
+:sp .
+|2,0,1581376607,,"sp ."
+:sp scratch.cpp
+|2,0,1580010759,,"sp scratch.cpp"
+:vsp Wart.h
+|2,0,1580010439,,"vsp Wart.h"
+:vsp .
+|2,0,1580008687,,"vsp ."
+:sp Wart.h
+|2,0,1579986423,,"sp Wart.h"
+:sp wart.h
+|2,0,1579986316,,"sp wart.h"
+:vsp Digraph.cpp
+|2,0,1579986175,,"vsp Digraph.cpp"
+:.
+|2,0,1579985732,,"."
+:vsp Digraph.h
+|2,0,1579897265,,"vsp Digraph.h"
+:sp Digraph.h
+|2,0,1579896940,,"sp Digraph.h"
+:vsp testDigraph.cpp
+|2,0,1579896698,,"vsp testDigraph.cpp"
+:sp Digraph.cpp
+|2,0,1579894512,,"sp Digraph.cpp"
+:sp test.cpp
+|2,0,1579890248,,"sp test.cpp"
+:sp makefile
+|2,0,1579889922,,"sp makefile"
+:vsp Wart.cpp
+|2,0,1579889785,,"vsp Wart.cpp"
+:vsp Wart.cp
+|2,0,1579889050,,"vsp Wart.cp"
 :sp Wart.cpp
 |2,0,1579875684,,"sp Wart.cpp"
-:q
-|2,0,1579875680,,"q"
 :sp wart.cpp
 |2,0,1579875676,,"sp wart.cpp"
-:vsp Wart.cpp
-|2,0,1579875496,,"vsp Wart.cpp"
-:vsp Wart.h
-|2,0,1579875467,,"vsp Wart.h"
 :vsp wart.cpp
 |2,0,1579875412,,"vsp wart.cpp"
 :sp test.cp
 |2,0,1579875114,,"sp test.cp"
 :vsp wart.h
 |2,0,1579874908,,"vsp wart.h"
-:w
-|2,0,1579830305,,"w"
 :vsp test.cpp
 |2,0,1579829763,,"vsp test.cpp"
 :vsp Pair.h
 |2,0,1579829752,,"vsp Pair.h"
 :sp PosPoly.h
 |2,0,1579829748,,"sp PosPoly.h"
-:q!
-|2,0,1579397538,,"q!"
 :sp PosPoly.cpp
 |2,0,1579397425,,"sp PosPoly.cpp"
 :e
@@ -55,12 +91,6 @@ $
 |2,0,1579360764,,"terminal"
 :s
 |2,0,1579360615,,"s"
-:vsp .
-|2,0,1579360554,,"vsp ."
-:sp .
-|2,0,1579360546,,"sp ."
-:.
-|2,0,1579360531,,"."
 :sp
 |2,0,1579360499,,"sp"
 :sp TestNumberCount.cpp
@@ -87,40 +117,32 @@ $
 |2,0,1578281450,,"sp nord.patch"
 :vsp config.def.h
 |2,0,1578281422,,"vsp config.def.h"
-:help 42
-|2,0,1578263636,,"help 42"
-:sp config.def.h
-|2,0,1578175545,,"sp config.def.h"
-:vsp .xinitrc
-|2,0,1578067015,,"vsp .xinitrc"
-:sp transparency.patch
-|2,0,1578020500,,"sp transparency.patch"
-:colorscheme gruvbox
-|2,0,1577673921,,"colorscheme gruvbox"
-:colorscheme alduin
-|2,0,1577673901,,"colorscheme alduin"
-:colorscheme deus
-|2,0,1577673895,,"colorscheme deus"
-:colors = deus
-|2,0,1577673875,,"colors = deus"
-:set termguicolors
-|2,0,1577673864,,"set termguicolors"
-:help termguicolors
-|2,0,1577671442,,"help termguicolors"
-:set termguicolors=true
-|2,0,1577671400,,"set termguicolors=true"
-:background=light
-|2,0,1577671333,,"background=light"
-:background light
-|2,0,1577671301,,"background light"
-:verbose colorscheme
-|2,0,1577671275,,"verbose colorscheme"
-:colors alduin
-|2,0,1577670361,,"colors alduin"
 
 # Search String History (newest to oldest):
+?/inPl
+|2,1,1581689869,47,"inPl"
+?/inPLa
+|2,1,1581689865,47,"inPLa"
+?/inPlace
+|2,1,1581689850,47,"inPlace"
+?/print
+|2,1,1581689525,47,"print"
+??\a
+|2,1,1581537794,63,"\\a"
 ? @$
-|2,1,1579397441,,"@$"
+|2,1,1581537794,,"@$"
+?/juli
+|2,1,1580772324,47,"juli"
+?/digraph
+|2,1,1579987977,47,"digraph"
+?/s.c_str
+|2,1,1579987814,47,"s.c_str"
+?/m.le
+|2,1,1579987209,47,"m.le"
+?/char
+|2,1,1579889815,47,"char"
+?/charn
+|2,1,1579889812,47,"charn"
 ?/temp
 |2,1,1579365800,47,"temp"
 ?/add/incrementBy/gci
@@ -185,14 +207,14 @@ $
 |2,1,1576221334,47,"\""
 ?/direction
 |2,1,1576221320,47,"direction"
-??\a
-|2,1,1576117595,63,"\\a"
 ?/count
 |2,1,1575655076,47,"count"
 
 # Expression History (newest to oldest):
 
 # Input Line History (newest to oldest):
+@[\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~
+|2,3,1581462604,,"[\\/]$,\\<core\\%(\\.\\d\\+\\)\\=\\>,\\.h$,\\.c$,\\.cpp$,\\~\\=\\*$,*,\\.o$,\\.obj$,\\.info$,\\.swp$,\\.bak$,\\~"
 @[\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.
 |2,3,1579397299,,"[\\/]$,\\<core\\%(\\.\\d\\+\\)\\=\\>,\\.h$,\\.c$,\\.cpp$,\\~\\=\\*$,*,\\.o$,\\.obj$,\\.info$,\\.swp$,\\."
 @[{y(es)},n(o),a(ll),q(uit)] y
@@ -206,291 +228,1027 @@ $
 
 # Registers:
 "0	LINE	0
-	Wart::Wart(string s) m(s){}
-	
-	ostream & operator<<(ostream & out, Wart & w){
-	  return out << w.m;
-	}
-	
-	void Wart::encode(int length){
-	  //add periods until the length of the message is a mutiple of length
-	  for(;strlen(m) % length != 0;strcat(m,"."));
-	  string f;
-	  //for(int i = 0; i < strlen(m)/length; i++)
-	  //  for(int j = 0; j <= length; j++)
-	  //    strcat(f,m.substr(i*j,1));
-	}
-|3,0,0,1,14,0,1579874918,"Wart::Wart(string s) m(s){}","","ostream & operator<<(ostream & out, Wart & w){","  return out << w.m;","}","","void Wart::encode(int length){","  //add periods until the length of the message is a mutiple of length","  for(;strlen(m) % length != 0;strcat(m,\".\"));","  string f;","  //for(int i = 0; i < strlen(m)/length; i++)","  //  for(int j = 0; j <= length; j++)","  //    strcat(f,m.substr(i*j,1));","}"
-"1	LINE	0
-	  string f;
-|3,0,1,1,1,0,1579876300,"  string f;"
+	    printTable(*a, *b);
+|3,0,0,1,1,0,1581689567,"    printTable(*a, *b);"
+""1	LINE	0
+	    //print the values for the table
+|3,1,1,1,1,0,1581689957,"    //print the values for the table"
 "2	LINE	0
-		Wart w("short message".c_str());
-|3,0,2,1,1,0,1579876125,"	Wart w(\"short message\".c_str());"
+	    printTable(numOne, numTwo);
+|3,0,2,1,1,0,1581689956,"    printTable(numOne, numTwo);"
 "3	LINE	0
-	#include <cstring>
-|3,0,3,1,1,0,1579875687,"#include <cstring>"
+	    printf("The original 2 values are\n");
+|3,0,3,1,1,0,1581689861,"    printf(\"The original 2 values are\\n\");"
 "4	LINE	0
-	#include <iostream>
-|3,0,4,1,1,0,1579875686,"#include <iostream>"
+	    
+|3,0,4,1,1,0,1581689572,"    "
 "5	LINE	0
-	#include "Wart.cpp"
-|3,0,5,1,1,0,1579875579,"#include \"Wart.cpp\""
+	
+|3,0,5,1,1,0,1581536996,""
 "6	LINE	0
-	Wart::Wart(string s) m(s){}
 	
-	ostream & operator<<(ostream & out, Wart & w){
-	  return out << w.m;
-	}
-	
-	void Wart::encode(int length){
-	  //add periods until the length of the message is a mutiple of length
-	  for(;strlen(m) % length != 0;strcat(m,"."));
-	  string f;
-	  //for(int i = 0; i < strlen(m)/length; i++)
-	  //  for(int j = 0; j <= length; j++)
-	  //    strcat(f,m.substr(i*j,1));
-	}
-|3,0,6,1,14,0,1579874997,"Wart::Wart(string s) m(s){}","","ostream & operator<<(ostream & out, Wart & w){","  return out << w.m;","}","","void Wart::encode(int length){","  //add periods until the length of the message is a mutiple of length","  for(;strlen(m) % length != 0;strcat(m,\".\"));","  string f;","  //for(int i = 0; i < strlen(m)/length; i++)","  //  for(int j = 0; j <= length; j++)","  //    strcat(f,m.substr(i*j,1));","}"
+|3,0,6,1,1,0,1581536993,""
 "7	LINE	0
 	
-|3,0,7,1,1,0,1579874938,""
+|3,0,7,1,1,0,1581536983,""
 "8	LINE	0
-	#include <iostream>
-	#include <cstring>
-|3,0,8,1,2,0,1579874932,"#include <iostream>","#include <cstring>"
+	
+|3,0,8,1,1,0,1581536983,""
 "9	LINE	0
-		if(temp.size() != p.values.size()) return false;
-|3,0,9,1,1,0,1579830035,"	if(temp.size() != p.values.size()) return false;"
-""-	CHAR	0
-	 
-|3,1,36,0,1,0,1579889348," "
+	
+|3,0,9,1,1,0,1581536983,""
+"-	CHAR	0
+	:
+|3,0,36,0,1,0,1581689743,":"
 
 # File marks:
-'0  44  13  ~/.vim/vimrc
-|4,48,44,13,1579889566,"~/.vim/vimrc"
-'1  13  15  ~/projects/2120/WART/Wart.cpp
-|4,49,13,15,1579876323,"~/projects/2120/WART/Wart.cpp"
-'2  1  0  ~/projects/2120/WART/test.cpp
-|4,50,1,0,1579876196,"~/projects/2120/WART/test.cpp"
-'3  4  23  ~/projects/2120/WART/test.cpp
-|4,51,4,23,1579876158,"~/projects/2120/WART/test.cpp"
-'4  4  23  ~/projects/2120/WART/test.cpp
-|4,52,4,23,1579876158,"~/projects/2120/WART/test.cpp"
-'5  4  1  ~/projects/2120/WART/test.cpp
-|4,53,4,1,1579876130,"~/projects/2120/WART/test.cpp"
-'6  4  1  ~/projects/2120/WART/test.cpp
-|4,54,4,1,1579876130,"~/projects/2120/WART/test.cpp"
-'7  12  14  ~/projects/2120/WART/Wart.h
-|4,55,12,14,1579876041,"~/projects/2120/WART/Wart.h"
-'8  5  28  ~/projects/2120/WART/Wart.cpp
-|4,56,5,28,1579876022,"~/projects/2120/WART/Wart.cpp"
-'9  5  28  ~/projects/2120/WART/Wart.cpp
-|4,57,5,28,1579876022,"~/projects/2120/WART/Wart.cpp"
+'0  61  69  ~/projects/2310/swapper/functions.c
+|4,48,61,69,1581690224,"~/projects/2310/swapper/functions.c"
+'1  1  0  ~/projects/2310/swapper/functions
+|4,49,1,0,1581690119,"~/projects/2310/swapper/functions"
+'2  54  56  ~/projects/2310/swapper/functions.c
+|4,50,54,56,1581689968,"~/projects/2310/swapper/functions.c"
+'3  54  56  ~/projects/2310/swapper/functions.c
+|4,51,54,56,1581689968,"~/projects/2310/swapper/functions.c"
+'4  109  22  ~/projects/2310/swapper/functions.c
+|4,52,109,22,1581689894,"~/projects/2310/swapper/functions.c"
+'5  111  22  ~/projects/2310/swapper/functions.c
+|4,53,111,22,1581689894,"~/projects/2310/swapper/functions.c"
+'6  109  22  ~/projects/2310/swapper/functions.c
+|4,54,109,22,1581689894,"~/projects/2310/swapper/functions.c"
+'7  111  22  ~/projects/2310/swapper/functions.c
+|4,55,111,22,1581689894,"~/projects/2310/swapper/functions.c"
+'8  1  0  ~/projects/2310/swapper/driver.c
+|4,56,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+'9  115  4  ~/projects/2310/swapper/functions.c
+|4,57,115,4,1581689574,"~/projects/2310/swapper/functions.c"
 
 # Jumplist (newest first):
--'  44  13  ~/.vim/vimrc
-|4,39,44,13,1579889566,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1579889248,"~/.vim/vimrc"
--'  13  15  ~/projects/2120/WART/Wart.cpp
-|4,39,13,15,1579876323,"~/projects/2120/WART/Wart.cpp"
--'  13  15  ~/projects/2120/WART/Wart.cpp
-|4,39,13,15,1579876323,"~/projects/2120/WART/Wart.cpp"
--'  1  0  ~/projects/2120/WART/Wart.cpp
-|4,39,1,0,1579876274,"~/projects/2120/WART/Wart.cpp"
--'  1  0  ~/projects/2120/WART/Wart.cpp
-|4,39,1,0,1579876274,"~/projects/2120/WART/Wart.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876196,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876196,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876196,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876196,"~/projects/2120/WART/test.cpp"
--'  4  23  ~/projects/2120/WART/test.cpp
-|4,39,4,23,1579876158,"~/projects/2120/WART/test.cpp"
--'  4  23  ~/projects/2120/WART/test.cpp
-|4,39,4,23,1579876158,"~/projects/2120/WART/test.cpp"
--'  4  23  ~/projects/2120/WART/test.cpp
-|4,39,4,23,1579876158,"~/projects/2120/WART/test.cpp"
--'  4  23  ~/projects/2120/WART/test.cpp
-|4,39,4,23,1579876158,"~/projects/2120/WART/test.cpp"
--'  4  23  ~/projects/2120/WART/test.cpp
-|4,39,4,23,1579876158,"~/projects/2120/WART/test.cpp"
--'  4  23  ~/projects/2120/WART/test.cpp
-|4,39,4,23,1579876158,"~/projects/2120/WART/test.cpp"
--'  4  23  ~/projects/2120/WART/test.cpp
-|4,39,4,23,1579876158,"~/projects/2120/WART/test.cpp"
--'  4  23  ~/projects/2120/WART/test.cpp
-|4,39,4,23,1579876158,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876151,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876151,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876151,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876151,"~/projects/2120/WART/test.cpp"
--'  4  1  ~/projects/2120/WART/test.cpp
-|4,39,4,1,1579876130,"~/projects/2120/WART/test.cpp"
--'  4  1  ~/projects/2120/WART/test.cpp
-|4,39,4,1,1579876130,"~/projects/2120/WART/test.cpp"
--'  4  1  ~/projects/2120/WART/test.cpp
-|4,39,4,1,1579876130,"~/projects/2120/WART/test.cpp"
--'  4  1  ~/projects/2120/WART/test.cpp
-|4,39,4,1,1579876130,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876113,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876113,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876113,"~/projects/2120/WART/test.cpp"
--'  1  0  ~/projects/2120/WART/test.cpp
-|4,39,1,0,1579876113,"~/projects/2120/WART/test.cpp"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  12  14  ~/projects/2120/WART/Wart.h
-|4,39,12,14,1579876041,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  1  0  ~/projects/2120/WART/Wart.h
-|4,39,1,0,1579876031,"~/projects/2120/WART/Wart.h"
--'  5  28  ~/projects/2120/WART/Wart.cpp
-|4,39,5,28,1579876022,"~/projects/2120/WART/Wart.cpp"
--'  5  28  ~/projects/2120/WART/Wart.cpp
-|4,39,5,28,1579876022,"~/projects/2120/WART/Wart.cpp"
--'  5  28  ~/projects/2120/WART/Wart.cpp
-|4,39,5,28,1579876022,"~/projects/2120/WART/Wart.cpp"
--'  5  28  ~/projects/2120/WART/Wart.cpp
-|4,39,5,28,1579876022,"~/projects/2120/WART/Wart.cpp"
--'  5  28  ~/projects/2120/WART/Wart.cpp
-|4,39,5,28,1579876022,"~/projects/2120/WART/Wart.cpp"
--'  5  28  ~/projects/2120/WART/Wart.cpp
-|4,39,5,28,1579876022,"~/projects/2120/WART/Wart.cpp"
+-'  61  69  ~/projects/2310/swapper/functions.c
+|4,39,61,69,1581690224,"~/projects/2310/swapper/functions.c"
+-'  1  0  ~/projects/2310/swapper/functions.c
+|4,39,1,0,1581690122,"~/projects/2310/swapper/functions.c"
+-'  1  0  ~/projects/2310/swapper/functions
+|4,39,1,0,1581690119,"~/projects/2310/swapper/functions"
+-'  1  0  ~/projects/2310/swapper/functions
+|4,39,1,0,1581690119,"~/projects/2310/swapper/functions"
+-'  54  56  ~/projects/2310/swapper/functions.c
+|4,39,54,56,1581689968,"~/projects/2310/swapper/functions.c"
+-'  54  56  ~/projects/2310/swapper/functions.c
+|4,39,54,56,1581689968,"~/projects/2310/swapper/functions.c"
+-'  54  56  ~/projects/2310/swapper/functions.c
+|4,39,54,56,1581689968,"~/projects/2310/swapper/functions.c"
+-'  1  0  ~/projects/2310/swapper/functions.c
+|4,39,1,0,1581689928,"~/projects/2310/swapper/functions.c"
+-'  1  0  ~/projects/2310/swapper/functions.c
+|4,39,1,0,1581689928,"~/projects/2310/swapper/functions.c"
+-'  109  22  ~/projects/2310/swapper/functions.c
+|4,39,109,22,1581689894,"~/projects/2310/swapper/functions.c"
+-'  111  22  ~/projects/2310/swapper/functions.c
+|4,39,111,22,1581689894,"~/projects/2310/swapper/functions.c"
+-'  109  22  ~/projects/2310/swapper/functions.c
+|4,39,109,22,1581689894,"~/projects/2310/swapper/functions.c"
+-'  111  22  ~/projects/2310/swapper/functions.c
+|4,39,111,22,1581689894,"~/projects/2310/swapper/functions.c"
+-'  109  22  ~/projects/2310/swapper/functions.c
+|4,39,109,22,1581689894,"~/projects/2310/swapper/functions.c"
+-'  111  22  ~/projects/2310/swapper/functions.c
+|4,39,111,22,1581689894,"~/projects/2310/swapper/functions.c"
+-'  55  4  ~/projects/2310/swapper/functions.c
+|4,39,55,4,1581689869,"~/projects/2310/swapper/functions.c"
+-'  55  4  ~/projects/2310/swapper/functions.c
+|4,39,55,4,1581689869,"~/projects/2310/swapper/functions.c"
+-'  55  4  ~/projects/2310/swapper/functions.c
+|4,39,55,4,1581689869,"~/projects/2310/swapper/functions.c"
+-'  55  4  ~/projects/2310/swapper/functions.c
+|4,39,55,4,1581689869,"~/projects/2310/swapper/functions.c"
+-'  55  4  ~/projects/2310/swapper/functions.c
+|4,39,55,4,1581689869,"~/projects/2310/swapper/functions.c"
+-'  105  5  ~/projects/2310/swapper/functions.c
+|4,39,105,5,1581689851,"~/projects/2310/swapper/functions.c"
+-'  107  5  ~/projects/2310/swapper/functions.c
+|4,39,107,5,1581689851,"~/projects/2310/swapper/functions.c"
+-'  105  5  ~/projects/2310/swapper/functions.c
+|4,39,105,5,1581689851,"~/projects/2310/swapper/functions.c"
+-'  107  5  ~/projects/2310/swapper/functions.c
+|4,39,107,5,1581689851,"~/projects/2310/swapper/functions.c"
+-'  105  5  ~/projects/2310/swapper/functions.c
+|4,39,105,5,1581689851,"~/projects/2310/swapper/functions.c"
+-'  107  5  ~/projects/2310/swapper/functions.c
+|4,39,107,5,1581689851,"~/projects/2310/swapper/functions.c"
+-'  94  22  ~/projects/2310/swapper/functions.c
+|4,39,94,22,1581689850,"~/projects/2310/swapper/functions.c"
+-'  96  22  ~/projects/2310/swapper/functions.c
+|4,39,96,22,1581689850,"~/projects/2310/swapper/functions.c"
+-'  94  22  ~/projects/2310/swapper/functions.c
+|4,39,94,22,1581689850,"~/projects/2310/swapper/functions.c"
+-'  96  22  ~/projects/2310/swapper/functions.c
+|4,39,96,22,1581689850,"~/projects/2310/swapper/functions.c"
+-'  94  22  ~/projects/2310/swapper/functions.c
+|4,39,94,22,1581689850,"~/projects/2310/swapper/functions.c"
+-'  96  22  ~/projects/2310/swapper/functions.c
+|4,39,96,22,1581689850,"~/projects/2310/swapper/functions.c"
+-'  1  0  ~/projects/2310/swapper/functions.c
+|4,39,1,0,1581689615,"~/projects/2310/swapper/functions.c"
+-'  1  0  ~/projects/2310/swapper/functions.c
+|4,39,1,0,1581689615,"~/projects/2310/swapper/functions.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  1  0  ~/projects/2310/swapper/driver.c
+|4,39,1,0,1581689613,"~/projects/2310/swapper/driver.c"
+-'  115  4  ~/projects/2310/swapper/functions.c
+|4,39,115,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  112  4  ~/projects/2310/swapper/functions.c
+|4,39,112,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  117  4  ~/projects/2310/swapper/functions.c
+|4,39,117,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  114  4  ~/projects/2310/swapper/functions.c
+|4,39,114,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  115  4  ~/projects/2310/swapper/functions.c
+|4,39,115,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  112  4  ~/projects/2310/swapper/functions.c
+|4,39,112,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  117  4  ~/projects/2310/swapper/functions.c
+|4,39,117,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  114  4  ~/projects/2310/swapper/functions.c
+|4,39,114,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  114  4  ~/projects/2310/swapper/functions.c
+|4,39,114,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  115  4  ~/projects/2310/swapper/functions.c
+|4,39,115,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  112  4  ~/projects/2310/swapper/functions.c
+|4,39,112,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  117  4  ~/projects/2310/swapper/functions.c
+|4,39,117,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  114  4  ~/projects/2310/swapper/functions.c
+|4,39,114,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  114  4  ~/projects/2310/swapper/functions.c
+|4,39,114,4,1581689574,"~/projects/2310/swapper/functions.c"
+-'  100  4  ~/projects/2310/swapper/functions.c
+|4,39,100,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  101  4  ~/projects/2310/swapper/functions.c
+|4,39,101,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  102  4  ~/projects/2310/swapper/functions.c
+|4,39,102,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  103  4  ~/projects/2310/swapper/functions.c
+|4,39,103,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  100  4  ~/projects/2310/swapper/functions.c
+|4,39,100,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  101  4  ~/projects/2310/swapper/functions.c
+|4,39,101,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  102  4  ~/projects/2310/swapper/functions.c
+|4,39,102,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  103  4  ~/projects/2310/swapper/functions.c
+|4,39,103,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  103  4  ~/projects/2310/swapper/functions.c
+|4,39,103,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  100  4  ~/projects/2310/swapper/functions.c
+|4,39,100,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  101  4  ~/projects/2310/swapper/functions.c
+|4,39,101,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  102  4  ~/projects/2310/swapper/functions.c
+|4,39,102,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  103  4  ~/projects/2310/swapper/functions.c
+|4,39,103,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  103  4  ~/projects/2310/swapper/functions.c
+|4,39,103,4,1581689529,"~/projects/2310/swapper/functions.c"
+-'  56  0  ~/projects/2310/swapper/functions.c
+|4,39,56,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  57  0  ~/projects/2310/swapper/functions.c
+|4,39,57,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  58  0  ~/projects/2310/swapper/functions.c
+|4,39,58,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  59  0  ~/projects/2310/swapper/functions.c
+|4,39,59,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  56  0  ~/projects/2310/swapper/functions.c
+|4,39,56,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  57  0  ~/projects/2310/swapper/functions.c
+|4,39,57,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  58  0  ~/projects/2310/swapper/functions.c
+|4,39,58,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  59  0  ~/projects/2310/swapper/functions.c
+|4,39,59,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  59  0  ~/projects/2310/swapper/functions.c
+|4,39,59,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  56  0  ~/projects/2310/swapper/functions.c
+|4,39,56,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  57  0  ~/projects/2310/swapper/functions.c
+|4,39,57,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  58  0  ~/projects/2310/swapper/functions.c
+|4,39,58,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  59  0  ~/projects/2310/swapper/functions.c
+|4,39,59,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  59  0  ~/projects/2310/swapper/functions.c
+|4,39,59,0,1581689528,"~/projects/2310/swapper/functions.c"
+-'  56  6  ~/projects/2310/swapper/functions.c
+|4,39,56,6,1581689526,"~/projects/2310/swapper/functions.c"
+-'  57  6  ~/projects/2310/swapper/functions.c
+|4,39,57,6,1581689526,"~/projects/2310/swapper/functions.c"
+-'  57  6  ~/projects/2310/swapper/functions.c
+|4,39,57,6,1581689526,"~/projects/2310/swapper/functions.c"
+-'  56  6  ~/projects/2310/swapper/functions.c
+|4,39,56,6,1581689526,"~/projects/2310/swapper/functions.c"
+-'  57  6  ~/projects/2310/swapper/functions.c
+|4,39,57,6,1581689526,"~/projects/2310/swapper/functions.c"
+-'  57  6  ~/projects/2310/swapper/functions.c
+|4,39,57,6,1581689526,"~/projects/2310/swapper/functions.c"
+-'  54  41  ~/projects/2310/swapper/functions.c
+|4,39,54,41,1581689525,"~/projects/2310/swapper/functions.c"
+-'  54  41  ~/projects/2310/swapper/functions.c
+|4,39,54,41,1581689525,"~/projects/2310/swapper/functions.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/projects/2310/swapper/functions.c
+	*	1581690224	0
+	"	61	69
+	^	41	77
+	.	41	76
+	+	54	0
+	+	112	22
+	+	115	4
+	+	115	0
+	+	111	47
+	+	114	48
+	+	111	44
+	+	114	43
+	+	111	45
+	+	117	46
+	+	118	22
+	+	54	0
+	+	108	42
+	+	109	22
+	+	56	0
+	+	54	56
+	+	41	76
+
+> ~/projects/2310/swapper/functions
+	*	1581690117	0
+	"	1	0
+
+> ~/projects/2310/swapper/driver.c
+	*	1581689611	0
+	"	1	0
+
+> ~/.zshrc
+	*	1581649974	0
+	"	103	67
+	^	103	68
+	.	103	67
+	+	11	14
+	+	99	3
+	+	99	35
+	+	100	29
+	+	102	53
+	+	103	67
+
+> ~/Dropbox/todo/to-do.org
+	*	1581648693	0
+	"	1	0
+
+> ~/Dropbox/test.txt
+	*	1581648550	0
+	"	3	6
+	^	3	7
+	.	3	6
+	+	3	6
+
+> ~/.dropbox/test.txt
+	*	1581648144	0
+	"	3	8
+	^	3	9
+	.	3	8
+	+	3	8
+
+> /opt/dropbox/README
+	*	1581647985	0
+	"	1	0
+
+> /sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-LVDS-1/intel_backlight/actual_brightness
+	*	1581642163	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.manpkg/dwm-6.2/config.h
+	*	1581544144	0
+	"	22	71
+	^	47	23
+	.	22	71
+	+	47	17
+	+	4	38
+	+	22	71
+	+	47	22
+	+	22	71
+
+> ~/.manpkg/dwm-6.2/config.def.h
+	*	1581544005	0
+	"	47	18
+	.	47	18
+	+	47	18
+
+> ~/.manpkg/dwm-6.2/Makefile
+	*	1581543718	0
+	"	51	0
+
+> ~/.manpkg/dwm-6.2/README
+	*	1581543508	0
+	"	48	0
+
+> ~/To-do/todo
+	*	1581537804	0
+	"	1	0
+
+> ~/To-do/todoPersonal.org
+	*	1581537002	0
+	"	1	0
+
+> ~/To-do/todo_arch
+	*	1581536996	0
+	"	28	0
+	^	28	0
+	.	28	0
+	+	1	1
+	+	2	1
+	+	20	1
+	+	19	1
+	+	18	1
+	+	17	1
+	+	16	1
+	+	15	1
+	+	14	1
+	+	13	1
+	+	12	1
+	+	11	1
+	+	10	1
+	+	9	1
+	+	8	1
+	+	7	1
+	+	6	1
+	+	5	1
+	+	4	1
+	+	3	1
+	+	2	0
+	+	21	3
+	+	22	3
+	+	23	3
+	+	20	8
+	+	24	8
+	+	27	17
+	+	31	7
+	+	32	0
+	+	20	0
+	+	28	0
+	+	20	0
+	+	28	0
+
+> ~/.lesshst
+	*	1581536707	0
+	"	1	0
+
+> ~/nota/Makefile
+	*	1581536060	0
+	"	1	0
+
+> ~/nota/makefile
+	*	1581536056	0
+	"	1	0
+
+> ~/nota/install.sh
+	*	1581536041	0
+	"	1	0
+
+> ~/todo
+	*	1581536012	0
+	"	1	0
+	^	5	22
+	.	5	21
+	+	5	0
+	+	15	0
+	+	25	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	25	0
+	+	24	0
+	+	9	22
+	+	11	0
+	+	9	22
+	+	5	21
+	a	1	0
+
+> ~/.xinitrc
+	*	1581465896	0
+	"	3	7
+	^	3	8
+	.	3	7
+	+	3	0
+	+	1	0
+	+	3	0
+	+	1	0
+	+	3	0
+	+	1	38
+	+	4	0
+	+	3	0
+	+	1	0
+	+	4	0
+	+	2	0
+	+	1	41
+	+	3	7
+
+> ~/Downloads/jmc.ps
+	*	1581464501	0
+	"	61	0
+
+> ~/.config/i3/config
+	*	1581461976	0
+	"	109	0
+	^	24	12
+	.	24	11
+	+	20	37
+	+	18	37
+	+	24	20
+	+	23	20
+	+	24	22
+	+	24	0
+	+	23	0
+	+	24	0
+	+	23	11
+	+	24	11
+
+> ~/i3
+	*	1581460603	0
+	"	1	0
+
+> ~/.emacs.d/init.el
+	*	1581376826	0
+	"	23	54
+	^	23	55
+	.	23	55
+	+	22	55
+	+	23	55
+
+> ~/projects/2120/lab3/script.sh
+	*	1581106479	0
+	"	5	36
+	^	5	37
+	.	5	36
+	+	8	25
+	+	10	27
+	+	11	25
+	+	11	62
+	+	12	56
+	+	14	0
+	+	8	32
+	+	8	26
+	+	10	27
+	+	11	27
+	+	11	63
+	+	12	57
+	+	8	26
+	+	8	25
+	+	10	26
+	+	11	26
+	+	11	62
+	+	12	56
+	+	8	6
+	+	8	0
+	+	10	0
+	+	11	34
+	+	11	0
+	+	12	28
+	+	12	6
+	+	13	7
+	+	8	5
+	+	10	5
+	+	11	5
+	+	12	5
+	+	13	5
+	+	9	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	2	0
+	+	6	15
+	+	6	11
+	+	6	14
+	+	8	0
+	+	6	15
+	+	7	0
+	+	6	15
+	+	7	1
+	+	13	1
+	+	12	1
+	+	11	1
+	+	10	1
+	+	9	1
+	+	8	1
+	+	6	42
+	+	6	13
+	+	6	11
+	+	6	1
+	+	6	5
+	+	6	7
+	+	6	3
+	+	6	14
+	+	6	37
+	+	6	15
+	+	6	39
+	+	6	21
+	+	6	10
+	+	6	7
+	+	6	8
+	+	6	4
+	+	6	18
+	+	6	0
+	+	6	13
+	+	6	10
+	+	6	0
+	+	6	7
+	+	6	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	5	36
+	+	3	16
+	+	5	36
+
+> ~/projects/2120/lab3/a
+	*	1581106257	0
+	"	1	0
+
+> ~/projects/2120/lab3/p1i4
+	*	1581105806	0
+	"	16	0
+
+> ~/.zsh_history
+	*	1580929807	0
+	"	119	0
+
+> ~/note
+	*	1580758735	0
+	"	1	0
+	^	1	79
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/projects/2120/WART/Wart.cpp
+	*	1580740656	0
+	"	26	32
+	^	26	33
+	.	26	32
+	+	3	16
+	+	6	0
+	+	7	29
+	+	21	0
+	+	19	3
+	+	19	15
+	+	7	25
+	+	18	0
+	+	10	0
+	+	18	0
+	+	19	0
+	+	19	20
+	+	19	4
+	+	21	4
+	+	22	4
+	+	23	4
+	+	21	28
+	+	22	38
+	+	20	12
+	+	23	31
+	+	24	9
+	+	22	29
+	+	6	0
+	+	4	21
+	+	37	0
+	+	30	26
+	+	29	20
+	+	30	28
+	+	37	8
+	+	30	6
+	+	28	3
+	+	37	0
+	+	30	46
+	+	35	18
+	+	37	0
+	+	35	9
+	+	30	46
+	+	36	4
+	+	4	18
+	+	31	22
+	+	1	8
+	+	2	8
+	+	34	37
+	+	8	0
+	+	15	0
+	+	13	4
+	+	5	19
+	+	18	33
+	+	26	32
+
+> ~/.config/nvim/init.vim
+	*	1580739973	0
+	"	38	0
+
+> ~/projects/2120/WART/Wart.h
+	*	1580011328	0
+	"	1	13
+	^	23	21
+	.	23	15
+	+	1	8
+	+	2	8
+	+	6	10
+	+	1	13
+	+	6	0
+	+	4	17
+	+	28	1
+	+	10	10
+	+	13	14
+	+	4	10
+	+	10	11
+	+	13	16
+	+	9	0
+	+	10	0
+	+	12	0
+	+	26	32
+	+	5	19
+	+	23	15
+
+> ~/projects/2120/WART/scratch.cpp
+	*	1580011327	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	1	19
+	+	6	27
+	+	12	25
+	+	12	0
+	+	11	4
+	+	2	21
+	+	11	13
+	+	12	24
+	+	10	3
+	+	4	0
+	+	3	19
+	+	13	0
+
+> ~/projects/2120/WART/Digraph.
+	*	1580010242	0
+	"	1	0
+
+> /usr/share/vim/vim82/doc/help.txt
+	*	1580010164	0
+	"	1	0
+
+> ~/projects/2120/WART/driver.cpp
+	*	1579988035	0
+	"	13	13
+	^	13	14
+	.	13	13
+	+	1	28
+	+	1	20
+	+	1	10
+	+	10	22
+	+	12	10
+	+	6	29
+	+	12	20
+	+	26	4
+	+	10	12
+	+	19	21
+	+	25	4
+	+	12	20
+	+	18	31
+	+	24	3
+	+	18	59
+	+	20	16
+	+	21	43
+	+	22	12
+	+	22	13
+	+	23	0
+	+	10	5
+	+	10	0
+	+	4	11
+	+	5	20
+	+	9	11
+	+	8	0
+	+	9	7
+	+	10	19
+	+	5	27
+	+	18	4
+	+	12	9
+	+	11	69
+	+	14	43
+	+	17	4
+	+	16	0
+	+	7	9
+	+	8	4
+	+	10	9
+	+	12	4
+	+	13	13
+
+> ~/projects/2120/WART/Digraph.cpp
+	*	1579987916	0
+	"	79	25
+	^	79	26
+	.	79	25
+	+	8	20
+	+	9	20
+	+	10	16
+	+	11	20
+	+	12	20
+	+	13	20
+	+	14	20
+	+	16	0
+	+	10	7
+	+	16	1
+	+	50	33
+	+	51	17
+	+	50	12
+	+	51	23
+	+	53	1
+	+	57	20
+	+	59	0
+	+	53	0
+	+	52	48
+	+	53	0
+	+	52	46
+	+	64	5
+	+	6	9
+	+	7	4
+	+	8	4
+	+	9	4
+	+	10	4
+	+	11	4
+	+	12	4
+	+	13	4
+	+	14	4
+	+	15	4
+	+	58	14
+	+	47	0
+	+	19	21
+	+	21	19
+	+	20	20
+	+	47	12
+	+	22	26
+	+	47	0
+	+	30	36
+	+	36	33
+	+	33	35
+	+	36	34
+	+	26	58
+	+	37	13
+	+	39	0
+	+	23	26
+	+	39	7
+	+	47	0
+	+	41	59
+	+	43	0
+	+	40	30
+	+	42	36
+	+	47	0
+	+	43	0
+	+	44	36
+	+	47	0
+	+	28	47
+	+	29	46
+	+	21	22
+	+	46	5
+	+	44	37
+	+	45	20
+	+	62	60
+	+	63	0
+	+	61	10
+	+	26	58
+	+	19	26
+	+	28	30
+	+	29	34
+	+	41	40
+	+	43	41
+	+	34	43
+	+	24	24
+	+	32	45
+	+	85	0
+	+	74	37
+	+	81	27
+	+	85	0
+	+	81	28
+	+	84	14
+	+	93	0
+	+	77	30
+	+	80	35
+	+	78	13
+	+	80	48
+	+	76	34
+	+	81	23
+	+	80	38
+	+	79	24
+	+	76	19
+	+	81	32
+	+	80	36
+	+	82	17
+	+	80	55
+	+	83	4
+	+	91	0
+	+	77	9
+	+	79	25
+
+> ~/projects/2120/WART/testDigraph.cpp
+	*	1579987426	0
+	"	1	0
+	^	9	4
+	.	4	29
+	+	1	22
+	+	5	14
+	+	7	4
+	+	6	61
+	+	9	0
+	+	1	22
+	+	2	18
+	+	8	27
+	+	9	1
+	+	8	33
+	+	4	31
+	+	8	35
+	+	8	17
+	+	9	4
+	+	4	29
+
+> ~/projects/2120/WART/makefile
+	*	1579987043	0
+	"	2	32
+	^	7	18
+	.	3	23
+	+	1	16
+	+	3	45
+	+	6	0
+	+	7	15
+	+	5	38
+	+	7	26
+	+	2	55
+	+	3	43
+	+	7	5
+	+	5	35
+	+	7	5
+	+	5	35
+	+	7	17
+	+	3	23
+
+> ~/projects/2120/WART/test.cpp
+	*	1579987007	0
+	"	1	0
+	^	10	55
+	.	10	54
+	+	1	10
+	+	11	23
+	+	11	10
+	+	11	18
+	+	11	9
+	+	11	0
+	+	11	20
+	+	11	10
+	+	11	0
+	+	3	31
+	+	12	0
+	+	11	0
+	+	6	15
+	+	4	17
+	+	7	5
+	+	8	20
+	+	10	54
+
+> ~/projects/2120/WART/wart.h
+	*	1579986316	0
+	"	1	0
+	^	21	6
+	.	21	5
+	+	4	16
+	+	1	0
+	+	4	0
+	+	1	16
+	+	22	0
+	+	1	14
+	+	2	13
+	+	21	5
+
+> ~/projects/2120/WART/grep
+	*	1579984915	0
+	"	1	0
+
+> ~/projects/2120/WART/test1.txt
+	*	1579983569	0
+	"	1	0
+
+> ~/projects/2120/WART/kafka.txt
+	*	1579983511	0
+	"	2298	0
+
+> ~/projects/2120/WART/testDigraph
+	*	1579983246	0
+	"	1	0
+
+> ~/projects/2120/WART/Digraph.h
+	*	1579982334	0
+	"	10	23
+	^	10	24
+	.	10	23
+	+	21	5
+	+	3	17
+	+	4	14
+	+	21	0
+	+	12	11
+	+	13	30
+	+	21	7
+	+	13	33
+	+	16	18
+	+	21	8
+	+	17	22
+	+	20	0
+	+	21	0
+	+	20	1
+	+	15	0
+	+	11	6
+	+	16	8
+	+	17	8
+	+	15	0
+	+	5	19
+	+	6	19
+	+	13	35
+	+	14	29
+	+	10	23
+
+> ~/projects/2120/WART/kafa.txt
+	*	1579981654	0
+	"	1	0
+
+> ~/projects/2120/WART/digraph.h
+	*	1579981116	0
+	"	1	0
+
+> ~/projects/2120/WART/test.txt
+	*	1579981082	0
+	"	1	90
+	^	1	91
+	.	1	90
+	+	1	90
+
+> ~/pair.cpp
+	*	1579977109	0
+	"	1	0
+	^	10	44
+	.	10	43
+	+	11	58
+	+	13	1
+	+	3	0
+	+	1	16
+	+	17	10
+	+	16	1
+	+	19	1
+	+	18	8
+	+	2	18
+	+	1	16
+	+	18	41
+	+	10	43
+
+> ~/projects/2120/WART/digraph.cpp
+	*	1579899180	0
+	"	1	0
+
+> ~/.vim/.netrwhist
+	*	1579889669	0
+	"	1	0
 
 > ~/.vim/vimrc
 	*	1579889518	0
@@ -560,40 +1318,9 @@ $
 	+	40	13
 	+	44	13
 
-> ~/projects/2120/WART/Wart.cpp
-	*	1579876323	0
-	"	13	15
-	^	13	16
-	.	13	15
-	+	3	16
-	+	4	0
-	+	5	29
-	+	15	0
-	+	14	3
-	+	13	15
-
-> ~/projects/2120/WART/test.cpp
-	*	1579876189	0
+> ~/projects/2120/WART/Wart.cp
+	*	1579889050	0
 	"	1	0
-	^	4	0
-	.	4	23
-	+	1	10
-	+	4	23
-
-> ~/projects/2120/WART/Wart.h
-	*	1579876041	0
-	"	12	14
-	^	12	15
-	.	12	14
-	+	1	8
-	+	2	8
-	+	5	10
-	+	1	13
-	+	5	0
-	+	4	17
-	+	21	1
-	+	9	10
-	+	12	14
 
 > ~/projects/2120/WART/wart.cpp
 	*	1579875676	0
@@ -612,20 +1339,6 @@ $
 > ~/projects/2120/WART/wart.h.gch
 	*	1579875273	0
 	"	1	0
-
-> ~/projects/2120/WART/wart.h
-	*	1579875245	0
-	"	2	5
-	^	21	6
-	.	21	5
-	+	4	16
-	+	1	0
-	+	4	0
-	+	1	16
-	+	22	0
-	+	1	14
-	+	2	13
-	+	21	5
 
 > ~/projects/2120/WART/test.cp
 	*	1579875235	0
@@ -828,17 +1541,6 @@ $
 	*	1579829336	0
 	"	1	0
 
-> ~/note
-	*	1579828779	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
-
-> ~/nota/install.sh
-	*	1579493382	0
-	"	1	0
-
 > ~/nota/docs/language.monopic
 	*	1579493369	0
 	"	1	0
@@ -912,24 +1614,6 @@ $
 	^	1	0
 	.	1	0
 	+	1	0
-
-> ~/pair.cpp
-	*	1578922200	0
-	"	1	0
-	^	10	44
-	.	10	43
-	+	11	58
-	+	13	1
-	+	3	0
-	+	1	16
-	+	17	10
-	+	16	1
-	+	19	1
-	+	18	8
-	+	2	18
-	+	1	16
-	+	18	41
-	+	10	43
 
 > ~/todo_arch
 	*	1578864198	0
@@ -1096,16 +1780,6 @@ $
 	+	15	45
 	+	16	0
 
-> ~/.zshrc
-	*	1578502245	0
-	"	99	29
-	^	100	12
-	.	100	29
-	+	11	14
-	+	99	3
-	+	99	35
-	+	100	29
-
 > /usr/bin/c
 	*	1578501755	0
 	"	2	2
@@ -1189,25 +1863,6 @@ $
 	+	8	0
 	+	10	13
 
-> ~/todo
-	*	1578430861	0
-	"	1	0
-	^	5	22
-	.	5	21
-	+	5	0
-	+	15	0
-	+	25	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	25	0
-	+	24	0
-	+	9	22
-	+	11	0
-	+	9	22
-	+	5	21
-	a	1	0
-
 > ~/projects/Industry2.0/task.h
 	*	1578331177	0
 	"	5	1
@@ -1236,22 +1891,6 @@ $
 > ~/.manpkg/st/anysize.patch
 	*	1578286851	0
 	"	1	0
-
-> ~/.xinitrc
-	*	1578286491	0
-	"	2	0
-	.	2	0
-	+	3	0
-	+	1	0
-	+	3	0
-	+	1	0
-	+	3	0
-	+	1	38
-	+	4	0
-	+	3	0
-	+	1	0
-	+	4	0
-	+	2	0
 
 > ~/.xprofile
 	*	1578286478	0
@@ -1361,575 +2000,3 @@ $
 > /boot/EFI/GRUB/grubx64.efi
 	*	1577762412	0
 	"	1	0
-
-> /usr/bin/core_perl/corelist
-	*	1577762394	0
-	"	1	0
-
-> ~/.config/i3/config
-	*	1577759668	0
-	"	24	11
-	^	24	12
-	.	24	11
-	+	20	37
-	+	18	37
-	+	24	20
-	+	23	20
-	+	24	22
-	+	24	0
-	+	23	0
-	+	24	0
-	+	23	11
-	+	24	11
-
-> ~/.xinit
-	*	1577758958	0
-	"	1	0
-
-> ~/install.sh
-	*	1577674143	0
-	"	28	0
-
-> ~/hello.c
-	*	1577674116	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/hello.cpp
-	*	1577673921	0
-	"	1	0
-	^	1	0
-	.	5	1
-	+	5	1
-
-> /usr/share/vim/vim81/doc/options.txt
-	*	1577671466	0
-	"	7711	5
-
-> ~/.vim/colors/d2.vim
-	*	1577667869	0
-	"	1	0
-	.	1	0
-	+	1	0
-
-> ~/.vim/colors/alduin.vim
-	*	1577667864	0
-	"	1	0
-	.	1	0
-	+	1	0
-
-> /usr/share/vim/vim81/doc/syntax.txt
-	*	1577666742	0
-	"	7	52
-
-> ~/tod
-	*	1577666699	0
-	"	1	0
-
-> /usr/share/vim/vim81/doc/starting.txt
-	*	1577584324	0
-	"	789	45
-
-> ~/.vim/gitignore
-	*	1577569725	0
-	"	1	8
-	^	1	9
-	.	2	0
-	+	1	9
-	+	2	0
-
-> ~/.vim/.netrwhist
-	*	1577568560	0
-	"	9	0
-
-> ~/cppProjects/gradeCalculator/GradeCalculator.cpp
-	*	1577316469	0
-	"	14	0
-	^	14	0
-	.	14	0
-	+	16	0
-	+	5	47
-	+	16	0
-	+	8	12
-	+	5	36
-	+	22	1
-	+	15	0
-	+	14	0
-
-> /usr/share/vim/vim80/doc/fold.txt
-	*	1577314839	0
-	"	298	44
-
-> /usr/share/vim/vim80/doc/options.txt
-	*	1577313973	0
-	"	3361	1
-
-> ~/.vimrc
-	*	1577313613	0
-	"	1	0
-	^	3	19
-	.	3	18
-	+	3	18
-
-> ~/cProjects/AdventOfCode2019/AoC/opcode/opcode.h
-	*	1576608977	0
-	"	14	38
-	^	14	39
-	.	14	38
-	+	60	1
-	+	44	15
-	+	47	17
-	+	57	0
-	+	58	0
-	+	7	29
-	+	14	38
-
-> ~/cProjects/AdventOfCode2019/AoC/opcode/opcodetester.cpp
-	*	1576607690	0
-	"	5	14
-	^	5	15
-	.	5	14
-	+	7	0
-	+	6	11
-	+	5	14
-
-> ~/cProjects/AdventOfCode2019/AoC/opcode/makefile
-	*	1576606488	0
-	"	2	0
-	^	2	0
-	.	1	15
-	+	1	15
-
-> ~/cProjects/logicCompiler/lcc.outline
-	*	1576563310	0
-	"	20	0
-	^	20	0
-	.	20	0
-	+	10	1
-	+	9	1
-	+	10	4
-	+	11	2
-	+	9	16
-	+	20	0
-
-> ~/cProjects/AdventOfCode2019/AoC/dayThree/dayThreeTry2.py
-	*	1576343755	0
-	"	40	5
-	^	40	23
-	.	40	5
-	+	47	23
-	+	49	30
-	+	55	29
-	+	49	40
-	+	55	18
-	+	55	42
-	+	47	17
-	+	55	22
-	+	55	50
-	+	46	11
-	+	47	10
-	+	48	0
-	+	55	12
-	+	46	9
-	+	55	13
-	+	55	0
-	+	55	30
-	+	55	0
-	+	42	28
-	+	42	18
-	+	42	25
-	+	1	11
-	+	6	54
-	+	42	1
-	+	14	0
-	+	15	38
-	+	42	0
-	+	18	0
-	+	42	0
-	+	17	13
-	+	27	32
-	+	41	12
-	+	31	36
-	+	47	0
-	+	42	0
-	+	49	5
-	+	55	0
-	+	50	25
-	+	55	0
-	+	55	20
-	+	48	18
-	+	55	21
-	+	27	23
-	+	30	0
-	+	31	25
-	+	6	29
-	+	55	16
-	+	49	29
-	+	50	26
-	+	51	0
-	+	55	0
-	+	3	21
-	+	4	6
-	+	17	27
-	+	6	17
-	+	1	0
-	+	17	23
-	+	6	0
-	+	55	21
-	+	15	17
-	+	15	25
-	+	15	23
-	+	17	0
-	+	15	18
-	+	15	36
-	+	36	23
-	+	15	19
-	+	55	24
-	+	48	18
-	+	17	25
-	+	55	0
-	+	52	6
-	+	55	6
-	+	55	0
-	+	55	34
-	+	55	32
-	+	31	30
-	+	15	0
-	+	43	0
-	+	45	0
-	+	43	13
-	+	27	9
-	+	31	31
-	+	55	46
-	+	55	44
-	+	12	12
-	+	54	11
-	+	11	39
-	+	9	9
-	+	11	42
-	+	12	13
-	+	13	11
-	+	11	45
-	+	30	0
-	+	31	44
-	+	34	10
-	+	40	23
-	+	41	0
-	+	39	16
-	+	40	5
-
-> ~/cProjects/AdventOfCode2019/AoC/dayThree/test2
-	*	1576342735	0
-	"	2	0
-	^	2	0
-	.	1	43
-	+	1	43
-
-> ~/cProjects/AdventOfCode2019/AoC/dayThree/test1
-	*	1576276467	0
-	"	1	65
-	^	1	66
-	.	2	0
-	+	2	0
-
-> ~/cProjects/AdventOfCode2019/AoC/dayThree/test
-	*	1576275530	0
-	"	1	65
-	^	1	66
-	.	1	66
-	+	2	0
-	+	1	66
-
-> ~/cProjects/AdventOfCode2019/AoC/dayThree/crossingWires.cpp
-	*	1576221507	0
-	"	89	0
-	^	13	2
-	.	13	1
-	+	84	1
-	+	64	0
-	+	52	2
-	+	36	2
-	+	45	9
-	+	10	0
-	+	12	2
-	+	13	23
-	+	18	6
-	+	49	35
-	+	18	39
-	+	20	39
-	+	22	1
-	+	64	1
-	+	66	63
-	+	66	29
-	+	66	0
-	+	85	0
-	+	85	11
-	+	85	16
-	+	85	10
-	+	85	19
-	+	66	42
-	+	27	1
-	+	64	1
-	+	66	29
-	+	38	9
-	+	66	0
-	+	59	0
-	+	66	0
-	+	63	0
-	+	61	29
-	+	24	6
-	+	61	30
-	+	23	0
-	+	36	2
-	+	56	24
-	+	57	2
-	+	61	9
-	+	56	26
-	+	55	25
-	+	24	27
-	+	78	30
-	+	80	29
-	+	81	29
-	+	80	30
-	+	38	14
-	+	76	9
-	+	77	9
-	+	85	0
-	+	82	0
-	+	38	16
-	+	76	22
-	+	77	22
-	+	76	11
-	+	77	10
-	+	78	17
-	+	79	17
-	+	38	21
-	+	43	25
-	+	77	4
-	+	80	12
-	+	81	12
-	+	43	32
-	+	3	17
-	+	18	32
-	+	20	32
-	+	18	18
-	+	20	18
-	+	49	37
-	+	14	8
-	+	15	7
-	+	16	6
-	+	18	7
-	+	20	7
-	+	21	9
-	+	62	12
-	+	39	2
-	+	40	1
-	+	41	1
-	+	42	1
-	+	60	7
-	+	49	18
-	+	50	20
-	+	21	9
-	+	13	1
-
-> ~/.bashrc
-	*	1576170953	0
-	"	122	0
-	^	122	1
-	.	122	0
-	+	39	0
-	+	40	0
-	+	41	1
-	+	38	0
-	+	39	0
-	+	40	0
-	+	41	0
-	+	119	1
-	+	120	0
-	+	121	0
-	+	122	0
-
-> ~/.bash
-	*	1576117746	0
-	"	1	0
-
-> ~/cProjects/AdventOfCode2019/AoC/day6/orbits.cpp
-	*	1575677562	0
-	"	15	15
-	^	15	16
-	.	15	15
-	+	11	27
-	+	10	26
-	+	42	9
-	+	2	17
-	+	42	47
-	+	41	14
-	+	50	0
-	+	49	0
-	+	12	13
-	+	47	22
-	+	21	42
-	+	46	3
-	+	20	8
-	+	21	54
-	+	23	0
-	+	14	16
-	+	4	19
-	+	15	9
-	+	14	47
-	+	15	16
-	+	18	0
-	+	48	0
-	+	27	29
-	+	26	15
-	+	28	23
-	+	29	22
-	+	30	22
-	+	31	22
-	+	32	18
-	+	33	26
-	+	32	26
-	+	31	26
-	+	30	26
-	+	29	26
-	+	28	26
-	+	27	28
-	+	34	0
-	+	33	22
-	+	34	22
-	+	35	22
-	+	36	22
-	+	37	22
-	+	15	22
-	+	14	2
-	+	17	14
-	+	12	5
-	+	16	3
-	+	17	10
-	+	47	10
-	+	17	0
-	+	15	0
-	+	16	46
-	+	15	6
-	+	26	24
-	+	15	17
-	+	21	81
-	+	22	28
-	+	14	23
-	+	15	4
-	+	16	7
-	+	17	8
-	+	16	38
-	+	21	80
-	+	16	33
-	+	21	74
-	+	38	0
-	+	41	8
-	+	21	77
-	+	15	15
-
-> ~/cProjects/testcheck.cpp
-	*	1575645861	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	4	0
-	+	5	2
-	+	6	0
-	+	7	0
-	+	8	0
-	+	11	0
-	+	14	0
-	+	17	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	28	0
-	+	31	0
-	+	1	19
-	+	2	19
-
-> ~/cProjects/AdventOfCode2019/AoC/day4/passwordFinder.cpp
-	*	1575591409	0
-	"	12	6
-	^	12	7
-	.	12	6
-	+	34	1
-	+	25	0
-	+	1	24
-	+	17	1
-	+	28	31
-	+	31	13
-	+	30	13
-	+	32	15
-	+	33	33
-	+	1	27
-	+	15	14
-	+	16	1
-	+	20	19
-	+	23	0
-	+	41	1
-	+	3	0
-	+	2	20
-	+	3	23
-	+	18	18
-	+	41	42
-	+	41	12
-	+	41	42
-	+	5	11
-	+	36	9
-	+	41	0
-	+	36	11
-	+	39	22
-	+	37	12
-	+	39	23
-	+	40	12
-	+	6	30
-	+	7	3
-	+	40	20
-	+	6	6
-	+	4	27
-	+	5	22
-	+	6	31
-	+	14	1
-	+	11	8
-	+	12	6
-
-> ~/cProjects/AdventOfCode2019/AoC/day4/.vimrc
-	*	1575589384	0
-	"	1	0
-
-> /usr/share/vim/vim80/doc/autocmd.txt
-	*	1575566734	0
-	"	103	30
-
-> /usr/share/vim/vim80/doc/filetype.txt
-	*	1575566705	0
-	"	23	0
-
-> ~/.vim/colors/d1.vim
-	*	1575566266	0
-	"	10	0
-
-> ~/.tmux.conf
-	*	1575563597	0
-	"	1	0
-
-> /usr/share/vim/vim80/doc/repeat.txt
-	*	1575560000	0
-	"	527	56
-
-> ~/.vim/.vimrc
-	*	1575559456	0
-	"	7	43
-	^	7	44
-	.	7	43
-	+	1	62
-	+	4	23
-	+	7	43
-
-> /usr/share/vim/vim80/doc/starting.txt
-	*	1575559278	0
-	"	1262	42
