@@ -20,7 +20,7 @@ set smartindent
 "use more reasonable 4 spaces for tabs, also convert windows type tabs to 4 spaces
 set tabstop=4        " tab width is 4 spaces
 set shiftwidth=4     " indent also with 4 spaces
-set expandtab        " expand tabs to spaces
+"set expandtab        " expand tabs to spaces
 
 "show line numbers
 set number
@@ -63,4 +63,10 @@ autocmd Filetype c set background=dark
 
 ""autocmd Filetype cpp colors gruvbox "gruvbox light for c++
 autocmd Filetype py colors alduin "alduin for python
+
+"set at bottom of vimrc
+"load all plugins
+packloadall
+"Enable help tags for ale , but disable the warnings/errors that come with them
+silent! helptags ALL
 
