@@ -14,6 +14,11 @@ set enc=utf-8
 set fenc=utf-8
 set termencoding=utf-8
 
+"search options
+set smartcase "searches will ignore case unless there is capital letters in the search
+set incsearch "show matches to the search as it is being typed
+set hlsearch "highlight all the matches for any given search
+
 "indentation, autoindent and smart indent
 set autoindent
 set smartindent
@@ -63,6 +68,7 @@ autocmd Filetype c set background=dark
 
 ""autocmd Filetype cpp colors gruvbox "gruvbox light for c++
 autocmd Filetype py colors alduin "alduin for python
+
 
 "set at bottom of vimrc
 "load all plugins
