@@ -70,6 +70,7 @@ autocmd Filetype c set background=dark
 autocmd Filetype py colors alduin "alduin for python
 
 
+
 "set at bottom of vimrc
 "load all plugins
 packloadall
